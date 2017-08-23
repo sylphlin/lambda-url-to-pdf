@@ -1,0 +1,11 @@
+{
+  "name": "lambda-url-to-pdf",
+  "version": "1.0.0",
+  "description": "Convert URL to PDF based on wkhtmltopdf and AWS Lambda",
+  "main": "index.js",
+  "author": "Sylph Lin",
+  "dependencies": {
+    "uuid": "^3.1.0",
+    "wkhtmltopdf": "^0.1.6"
+  }
+}
