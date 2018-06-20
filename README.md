@@ -1,7 +1,7 @@
 # lambda-url-to-pdf
 Convert URL to PDF based on wkhtmltopdf and AWS Lambda
 
-## Installation from Dist
+## Install from Dist
 * Upload zip file in `dist/` directly to AWS Lambda and start to use
 
 ## Install from Scratch
